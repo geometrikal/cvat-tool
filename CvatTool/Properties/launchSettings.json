@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CvatTool": {
+      "commandName": "Project",
+      "commandLineArgs": "--input \"C:\\Users\\rossm\\OneDrive\\CSIRO\\CVAT\\task_20211004_reef_21-555-2022_03_17_08_19_46-cvat for video 1.1\\annotations.xml\" --output \"C:\\Users\\rossm\\OneDrive\\CSIRO\\CVAT\\task_20211004_reef_21-555-2022_03_17_08_19_46-cvat for video 1.1\\annotations_half.xml\" --scale 0.5"
+    }
+  }
+}
